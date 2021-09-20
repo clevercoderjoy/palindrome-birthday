@@ -247,7 +247,7 @@ a{
 }
 
 .source .button:hover {
-    height: 100px;
+    height: 105px;
     width: 170px;
     border-radius: 15px;
     color: #EA4335;
@@ -259,7 +259,7 @@ a{
 }
 
 .source .button i{
-    line-height: 2.5rem;
+    line-height: 3rem;
 }
 
 .copyright{
